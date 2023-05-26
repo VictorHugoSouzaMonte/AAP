@@ -1,0 +1,113 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap');
+
+.div1 {
+    background-color: #189e8c;
+    width: auto;
+    height: auto;
+    padding: 25px;
+    margin: 2px;
+    opacity: 1.0;
+    border-radius: 20px;
+    align-content: center;
+}
+
+.div2 {
+    text-align: center;
+    font-family: poppins;
+    font-weight: bold;
+    font-size: x-large;
+    color: white;
+}
+
+body {
+    background: #defffb;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.img {
+    width: 3cm;
+    height: 4cm;
+}
+
+fieldset {
+    background-color: #fffdfde6;
+    width: auto;
+    height: auto;
+    border: double #000000;
+  
+}
+
+label {
+    font-family: 'Segoe UI';
+    font-weight: lighter;
+    position: absolute;
+    right: 19px;
+    margin-right: 5px;
+}
+
+.dp {
+    font-family: poppins;
+    font-weight: bolder;
+    position: right;
+    right: 1287px;
+    margin-right: 5px;
+    top: 240px;
+}
+
+.de {
+    font-family: poppins;
+    font-weight: bolder;
+    position: right;
+    right: 1277px;
+    margin-right: 5px;
+    top: 738px;
+    left: 23px;
+    margin-bottom: 0px;
+}
+
+.ev {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-family: poppins;
+    background-color: #189e8c;
+    border: #189e8c;
+    position: center;
+    border-radius:5px;
+}
+.button {
+    display: inline-block;
+    padding: 5px 15px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #189e8c;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0 2px #999;
+    
+}
+
+    .button:hover {
+        background-color: #189e8c
+    }
+
+    .button:active {
+        background-color: #189e8c;
+        box-shadow: 0 5px #999;
+        transform: translateY(4px);
+    }
+
+.div3 {
+    float: left;
+    width: 100%;
+    margin-right: 2%;
+    height: 50px;
+    text-align: right;
+    margin-top: 25px;
+}
